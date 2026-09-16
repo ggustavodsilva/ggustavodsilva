@@ -1,10 +1,10 @@
-# Olá, eu sou o Gustavo! 👋
+# E aí, eu sou o Gustavo! 👋
 
-🎓 Estudante de **Sistemas de Informação na USP**
+🎓 Atualmente cursando **Sistemas de Informação na USP**
 
-💻 Desenvolvedor interessado em **Tecnologia, Dados, Automação e Negócios**
+💻 Desenvolvedor interessado em **Tecnologia, Dados, Automação e Negócios**. Me destaco pela comunicação clara.
 
-🚀 Gosto de criar projetos que conectam **tecnologia e problemas reais**. Além disso, me amarro em **entender dores e necessidades de projetos e clientes**.
+🚀 Me amarro em **entender dores e necessidades de projetos e clientes**. Curto criar projetos que conectam **tecnologia e problemas reais**.
 
 ## 👨‍💻 Sobre mim
 
@@ -12,13 +12,11 @@ Atualmente estou explorando diferentes áreas da tecnologia e desenvolvendo proj
 
 Tenho experiência com **desenvolvimento web, automações e integração com APIs**, além de interesse crescente em **dados e Inteligência Artificial**.
 
-> 💡 Gosto de usar tecnologia para simplificar processos e fazer as pessoas trabalharem menos e melhor.
-
 ## 🛠️ Tecnologias
 
 **Linguagens**
 
-`Python` `JavaScript` `Java` `C` `C#` `SQL`
+`Python` `JavaScript` `C` `C#` `SQL`
 
 **Backend & Dados**
 
@@ -26,7 +24,7 @@ Tenho experiência com **desenvolvimento web, automações e integração com AP
 
 **Ferramentas**
 
-`Git` `GitHub` `Docker` `n8n` `VS Code`
+`Git` `GitHub` `Docker` `n8n` `VS Code` `Codex`
 
 ## 📚 Atualmente estudando
 
@@ -43,4 +41,4 @@ Tenho experiência com **desenvolvimento web, automações e integração com AP
 
 ---
 
-⭐ Sempre construindo alguma coisa nova e aprendendo no processo.
+⭐ Gosto de usar tecnologia para simplificar processos e fazer as pessoas trabalharem menos e melhor.
