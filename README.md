@@ -35,7 +35,7 @@ Tenho experiência com **desenvolvimento web, automações e integração com AP
 
 ## 📫 Contato
 
-💼 LinkedIn: **Gustavo dos Santos Silva**
+💼 LinkedIn: **Gustavo dos Santos Silva** | 
 📧 Email: **[gustavo.ssilva1606@gmail.com](mailto:gustavo.ssilva1606@gmail.com)**
 
 ---
