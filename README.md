@@ -1,7 +1,9 @@
 # Olá, eu sou o Gustavo! 👋
 
 🎓 Estudante de **Sistemas de Informação na USP**
+
 💻 Desenvolvedor interessado em **Tecnologia, Dados, Automação e Negócios**
+
 🚀 Gosto de criar projetos que conectam **tecnologia e problemas reais**. Além disso, me amarro em **entender dores e necessidades de projetos e clientes**.
 
 ## 👨‍💻 Sobre mim
@@ -20,7 +22,7 @@ Tenho experiência com **desenvolvimento web, automações e integração com AP
 
 **Backend & Dados**
 
-`FastAPI` `PostgreSQL` `Supabase` `SQL Server`
+`FastAPI` `.NET` `ASP.NET` `PostgreSQL` `SQL Server` `Supabase`
 
 **Ferramentas**
 
@@ -35,7 +37,8 @@ Tenho experiência com **desenvolvimento web, automações e integração com AP
 
 ## 📫 Contato
 
-💼 LinkedIn: **Gustavo dos Santos Silva** | 
+💼 LinkedIn: **Gustavo dos Santos Silva**
+
 📧 Email: **[gustavo.ssilva1606@gmail.com](mailto:gustavo.ssilva1606@gmail.com)**
 
 ---
